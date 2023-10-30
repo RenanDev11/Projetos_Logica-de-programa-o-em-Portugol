@@ -1,0 +1,4 @@
+Inteiro = números não fracionario
+Real = números fracionarios
+Caractere = é uma sequencia de caracteres
+Lógico = guarda verdadeiro e falso

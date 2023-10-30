@@ -1,0 +1,12 @@
+Escreva = Escreve em uma linha.
+Escreval = Escreve na próxima linha.
+
+
+Identificadores
+
+Deve começar com uma letra 
+Os próximos podem ser letras ou números
+Não pode utilizar nenhum símbolo, exeto _
+Não pode conter espaços em branco
+Não pode conter letras com acentos
+Não pode ser uma palavra reservada

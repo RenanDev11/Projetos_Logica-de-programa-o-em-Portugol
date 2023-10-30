@@ -1,0 +1,4 @@
+São passos a serem seguidoss por um módulo processador e seus respectivos usuários que, quando executamos em ordem correta, conseguem realizar determinada tarefa.
+
+Módulo processador: é tudo aquilo que pode efetuar processamento.
+Usuários: são nós mesmos, que utilizamos
